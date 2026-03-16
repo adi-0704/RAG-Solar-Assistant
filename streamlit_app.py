@@ -53,7 +53,7 @@ def get_engine():
     return RAGEngine()
 
 engine = get_engine()
-gen_model = genai.GenerativeModel('gemini-1.5-flash')
+gen_model = genai.GenerativeModel('gemini-1.5-flash-latest')
 
 # --- STREAMLIT UI ---
 st.set_page_config(page_title="RAG Solar Assistant", page_icon="☀️", layout="wide")
