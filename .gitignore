@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.streamlit/
+backend/
+frontend/
+tmp/
+*.pdf
+.gemini/
+/data/chroma_db

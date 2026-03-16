@@ -1,0 +1,10 @@
+NEC 2023 Solar Photovoltaic (PV) Systems Key Updates:
+Article 690 revisions: Circuit-First approach, refined scope and terminology (PV source circuit, PV string circuit), Floating PV equipment (690.4(G)).
+Rapid Shutdown (RSD) - Section 690.12: Updates for clarity, 80V or less within 30s. 
+RSD Exemptions: Non-enclosed, detached structures (carports, canopies, parking shade structures, solar trellises) are exempt.
+Exterior Termination: PV circuits from non-attached arrays can terminate on building exterior.
+Voltage Limits - Section 690.7: 600 Vdc for 1- and 2-family dwellings, 1,000 Vdc for other buildings. Guidance for >1,000 Vdc in 690.31(G).
+Wiring and Grounding: Refined wiring methods, conductor sizing (690.8), overcurrent protection (690.9), ground-fault protection (690.41), GFCI requirements for garage outlets.
+Third-Party Verification: Interactive PV + Storage/EV systems must be UL/CSA listed. ESS commissioning mandatory (Article 706).
+Interconnection Standards - Article 705: Improved standards for storage and grid integration, revised source connection rules (705.11).
+Compliance: Essential for design, installation, and labeling safety.

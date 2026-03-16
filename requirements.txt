@@ -1,0 +1,10 @@
+# Required for Streamlit Cloud deployment
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-text-splitters
+langchain-chroma
+pypdf2
+chromadb
+python-dotenv
